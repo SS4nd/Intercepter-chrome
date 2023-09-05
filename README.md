@@ -1,0 +1,1 @@
+# Logs calls in chrome extension console
